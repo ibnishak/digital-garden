@@ -1,6 +1,6 @@
 html,
 body {
-    font-family: Roboto, sans-serif;
+    font-family: inter, sans-serif;
     display: flex;
     flex-flow: column;
     background: #fafafc;
@@ -63,7 +63,8 @@ header {
 
 .site-title {
     padding: 0;
-    margin: 0
+    margin: 0;
+    color: #27B382;
 }
 
 #logo {
@@ -115,6 +116,9 @@ a {
     text-decoration: none;
     cursor: pointer;
     color: #0a84ff
+}
+a.external-link {
+	color: blue;
 }
 
 a.active {
