@@ -1,5 +1,3 @@
 # Readme
 
-[WIP]
-
-See: http://nilavara.surge.sh/
+See: https://nilavara.surge.sh/
