@@ -1,39 +1,3 @@
-/*! URI.js v1.19.2 http://medialize.github.io/URI.js/ */
-/* build contains: IPv6.js, punycode.js, SecondLevelDomains.js, URI.js */
-/*
- URI.js - Mutating URLs
- IPv6 Support
-
- Version: 1.19.2
-
- Author: Rodney Rehm
- Web: http://medialize.github.io/URI.js/
-
- Licensed under
-   MIT License http://www.opensource.org/licenses/mit-license
-
- https://mths.be/punycode v1.4.0 by @mathias  URI.js - Mutating URLs
- Second Level Domain (SLD) Support
-
- Version: 1.19.2
-
- Author: Rodney Rehm
- Web: http://medialize.github.io/URI.js/
-
- Licensed under
-   MIT License http://www.opensource.org/licenses/mit-license
-
- URI.js - Mutating URLs
-
- Version: 1.19.2
-
- Author: Rodney Rehm
- Web: http://medialize.github.io/URI.js/
-
- Licensed under
-   MIT License http://www.opensource.org/licenses/mit-license
-
-*/
 (function(k,n){"object"===typeof module&&module.exports?module.exports=n():"function"===typeof define&&define.amd?define(n):k.IPv6=n(k)})(this,function(k){var n=k&&k.IPv6;return{best:function(l){l=l.toLowerCase().split(":");var h=l.length,c=8;""===l[0]&&""===l[1]&&""===l[2]?(l.shift(),l.shift()):""===l[0]&&""===l[1]?l.shift():""===l[h-1]&&""===l[h-2]&&l.pop();h=l.length;-1!==l[h-1].indexOf(".")&&(c=7);var m;for(m=0;m<h&&""!==l[m];m++);if(m<c)for(l.splice(m,1,"0000");l.length<c;)l.splice(m,0,"0000");
 for(m=0;m<c;m++){h=l[m].split("");for(var k=0;3>k;k++)if("0"===h[0]&&1<h.length)h.splice(0,1);else break;l[m]=h.join("")}h=-1;var p=k=0,n=-1,u=!1;for(m=0;m<c;m++)u?"0"===l[m]?p+=1:(u=!1,p>k&&(h=n,k=p)):"0"===l[m]&&(u=!0,n=m,p=1);p>k&&(h=n,k=p);1<k&&l.splice(h,k,"");h=l.length;c="";""===l[0]&&(c=":");for(m=0;m<h;m++){c+=l[m];if(m===h-1)break;c+=":"}""===l[h-1]&&(c+=":");return c},noConflict:function(){k.IPv6===this&&(k.IPv6=n);return this}}});
 (function(k){function n(c){throw new RangeError(H[c]);}function l(c,f){for(var h=c.length,m=[];h--;)m[h]=f(c[h]);return m}function h(c,f){var h=c.split("@"),m="";1<h.length&&(m=h[0]+"@",c=h[1]);c=c.replace(F,".");h=c.split(".");h=l(h,f).join(".");return m+h}function c(c){for(var f=[],h=0,m=c.length,l,a;h<m;)l=c.charCodeAt(h++),55296<=l&&56319>=l&&h<m?(a=c.charCodeAt(h++),56320==(a&64512)?f.push(((l&1023)<<10)+(a&1023)+65536):(f.push(l),h--)):f.push(l);return f}function m(c){return l(c,function(c){var f=
