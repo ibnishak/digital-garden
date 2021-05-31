@@ -32,7 +32,7 @@
 
 # upload
 
-    git add .
+  git add .
 	git commit -m "Update"
 	git push
 	surge --domain nilavara.surge.sh --project ./
