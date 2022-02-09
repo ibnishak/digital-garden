@@ -1,2 +1,4 @@
-iroh.db
-index
+node_modules/
+contents/
+build.zsh
+.cache/
