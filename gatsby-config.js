@@ -1,15 +1,17 @@
 module.exports = {
-  pathPrefix: `/digital-garden`,
   siteMetadata: {
     title: `DryMind`,
+    siteUrl: `https://ibnishak.github.io/digital-garden/`,
     description: `Thoughts, notes and views`,
   },
   plugins: [
     {
       resolve: `gatsby-theme-garden`,
       options: {
-        rootNote: "/Index",
-        contentPath: `${__dirname}/contents`,
+        basePath: `/digital-garden`,
+        rootNote: `/digital-garden/Index`,
+        contentPath: `content`,
+        parseWikiLinks: true,
       },
     },
   ],

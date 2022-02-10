@@ -1,22 +1,17 @@
 {
-  "name": "foam",
-  "private": true,
-  "description": "",
+  "name": "digital-garden-starter",
   "version": "1.0.0",
-  "dependencies": {
-    "gatsby": "^2.23.18",
-    "gatsby-theme-garden": "^0.1.28",
-    "react": "^16.3.1",
-    "react-dom": "^16.3.1"
-  },
+  "description": "Template Repo for digital garden starter",
+  "main": "gatsby-config.js",
+  "scripts": {},
   "keywords": [
-    "foam"
+    "digital-garden",
+    "gatsby"
   ],
-  "license": "MIT",
-  "main": "n/a",
-  "scripts": {
-    "develop": "gatsby develop",
-    "build": "gatsby build",
-    "start": "gatsby serve"
+  "author": "",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "gatsby": "^2.32.13",
+    "gatsby-theme-garden": "https://github.com/ibnishak/digital-garden-theme.git"
   }
 }

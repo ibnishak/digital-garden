@@ -1,5 +1,11 @@
-# Digital garden
+# Staring a new blog
 
-https://ibnishak.github.io/digital-garden
+TODO: Update and explain this starter
+TODO: See if zsh scripts can be done in nodejs
 
-This is a digital garden build by passing a portion of my obsidian vault through a slightly modified fork of [gatsby-theme-garden](https://github.com/mathieudutour/gatsby-digital-garden)
+1. Fork this repo
+2. Clone it to your laptop
+3. Run `npm install`
+4. Open `build.zsh` and change SOURCE to the location of your markdown files
+5. Open `gatsby-config.js` and update the options
+6. Run `build.zsh` and `publish.zsh`

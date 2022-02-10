@@ -4,3 +4,4 @@ contents/
 public/
 build.zsh
 .temp/
+package-lock.json
