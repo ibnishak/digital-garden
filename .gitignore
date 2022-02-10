@@ -1,7 +1,0 @@
-.cache/
-node_modules/
-contents/
-public/
-build.zsh
-.temp/
-package-lock.json
