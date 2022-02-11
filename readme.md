@@ -1,7 +1,7 @@
-# Staring a new blog
+- See the pages here: https://ibnishak.github.io/digital-garden/
+- Made with https://github.com/mathieudutour/gatsby-digital-garden
 
-TODO: Update and explain this starter.  
-TODO: See if zsh scripts can be done in nodejs
+# Staring a new blog
 
 1. Shallow clone `main` branch of this repo.
 
