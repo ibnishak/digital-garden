@@ -30,12 +30,6 @@ SRC="/absolute/path/to/markdown/files"
 # Updating existing blog
 
 1. Clone the repo.
-2. Create a file with the name `.env` and add the following content.
-
-```
-SRC="/absolute/path/to/markdown/files"
-```
-
-3. Run `npm install`
-
+2. Run `npm install`
+3. Add markdown/mdx files to `content` folder
 4. Run `npm run deploy`

@@ -2,6 +2,5 @@
 .env
 node_modules/
 package-lock.json
-content/
 public
 .temp

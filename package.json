@@ -6,9 +6,9 @@
   "scripts": {
     "develop": "gatsby develop",
     "rebuild": "gatsby clean && gatsby build",
-    "build": "./build.zsh",
+    "build": "gatsby build --prefix-paths",
     "clean": "gatsby clean",
-    "deploy": "./build.zsh && gh-pages -d public"
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "dependencies": {
     "gatsby": "^2.32.13",
