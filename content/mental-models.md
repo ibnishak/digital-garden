@@ -1,0 +1,3 @@
+# Mental models
+
+- [[Ad hominem]]

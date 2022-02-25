@@ -8,3 +8,4 @@ title: February 2022
 - [[Digital Garden - Comparison with blog]]
 - [[Knowledge Acquisition]]
 - [[Kintsukuroi]]
+- [[Ad hominem]]

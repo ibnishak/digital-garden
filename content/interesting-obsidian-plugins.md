@@ -1,8 +1,13 @@
 ---
-title: Interesting Obsidian plugins
+title: "Interesting Obsidian Plugins"
+tags:
+up:
+aliases:
+status:
+id: 20220222160921308
 ---
 
-# Interesting Obsidian plugins
+# Interesting Obsidian Plugins
 
 ## For Everyone
 
@@ -10,6 +15,7 @@ title: Interesting Obsidian plugins
 - [Foot notes][8]
 - [Shortcut keys for specific files][9]
 - [Text Expander][12]
+- [Supercharged links: Stylize your links based on target metadata][14]
 
 ## For the hacker
 
@@ -22,6 +28,8 @@ title: Interesting Obsidian plugins
 
 - [Frontmatter Tag suggest][1]
 - [Tag page preview: Hovering over a tag shows list of pages tagged by it][2]
+- [Tag Folder][13]
+- [Cross reference navigation][15]
 
 ## For the compulsive organizer
 
@@ -43,3 +51,6 @@ title: Interesting Obsidian plugins
 [10]: https://github.com/Taitava/obsidian-shellcommands
 [11]: https://github.com/chhoumann/quickadd
 [12]: https://github.com/konodyuk/obsidian-text-expander
+[13]: https://github.com/vrtmrz/obsidian-tagfolder
+[14]: https://github.com/mdelobelle/obsidian_supercharged_links
+[15]: https://github.com/alexobenauer/Cross-reference-Navigation-for-Obsidian
