@@ -1,3 +1,3 @@
 # Notes by Category
 
-- [[Mental models]]
+- [[Mental Models]]
