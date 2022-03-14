@@ -22,8 +22,6 @@ I kept my ears firmly shut against the increasing noise created by these issues.
 
 See [[Notes on Fourth Migration]]
 
----
-
 [1]: https://techcrunch.com/2016/12/14/evernotes-new-privacy-policy-allows-employees-to-read-your-notes/
 [2]: https://ibnishak.github.io/Timimi/
 
