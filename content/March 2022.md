@@ -13,3 +13,7 @@ title: March 2022
 - [[Why learn Philosophy]]
 - [[Need for Serendipity engines]]
 - [[Git Annex]]
+- [[About Criticism]]
+- [[Ethics of Capitalism]]
+- [[Note taking Apps -  Criteria]]
+- [[Scalability Limits for Note taking Applications]]
