@@ -39,8 +39,11 @@ id: 20220304211433576
 
 ## Interesting links
 
+- [Arie Luna's List of Note taking Apps][1]
 - [Artificial Brain Networked notebook app - Master list of Personal knowledge base softwares][2]
-- [List of Public Zettelkasten Wikis][3]
+- [Repos Tagged Personal Knowledgebase in Github](https://github.com/topics/personal-knowledge-base)
 
+[1]: https://arieluna.notion.site/Apps-29ffc475bd3a4539b48eeb5bb551d713
 [2]: https://www.notion.so/Artificial-Brain-Networked-notebook-app-a131b468fc6f43218fb8105430304709
-[3]: https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked
+[3]: https://github.com/topics/personal-knowledge-base
+
