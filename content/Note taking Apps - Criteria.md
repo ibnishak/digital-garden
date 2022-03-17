@@ -7,34 +7,35 @@ status: published
 id: 20220304211433576
 ---
 
-# Note taking Apps - Criteria
+# Note-taking Apps - Criteria
 
 ## Essential criteria.
 
-1. Mobile first.
-2. Privacy.
-3. Cross platform.
+1. Cross-platform.
    - At least Linux and Android must be supported.
+2. Privacy and Offline Accessibility.
+3. Mobile Accessibility.
 4. Scalable.
    - See [[Scalability Limits for Note taking Applications]]
-5. Ability to cross link notes.
+5. Ability to cross-link notes.
 
 ## Desired criteria.
 
-1. Fast search and navigation.
-1. Semi automation of organization.
-1. Bottom up organization.
-1. Ability to add Quick Notes
-1. Least effort for initial setup, but extendable according to personal requirements.
+1. Fast and accurate search.
+2. Fast navigation, preferably keyboard based.
+3. Semi automation of organization.
+4. Bottom up organization.
+5. Ability to add Quick Notes
+6. Effortless setup, but extendable according to personal requirements.
 
 ## Ideal criteria
 
 1. Complete portability
    - The question to consider is: "If I have to open my notes in a computer with only default apps, can I make sense of it?"
-1. Visualization of relationships between notes as a mind-map.
 1. Web-clipper add-on for browser.
 1. Secure cloud backups.
-1. Tool-chain for easy publishing
+1. Visualization of relationships between notes as a mind-map.
+1. Tool-chain for publication of selected notes.
 
 ## Interesting links
 

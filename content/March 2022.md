@@ -15,5 +15,3 @@ title: March 2022
 - [[Git Annex]]
 - [[About Criticism]]
 - [[Ethics of Capitalism]]
-- [[Note taking Apps -  Criteria]]
-- [[Scalability Limits for Note taking Applications]]
