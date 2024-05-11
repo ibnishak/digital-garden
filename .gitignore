@@ -6,3 +6,4 @@ public
 .temp
 content/.foam/templates/new-note.md
 content/.vscode/settings.json
+yarn.lock
