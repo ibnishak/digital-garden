@@ -13,9 +13,9 @@ Knowledge acquisition should come in 2 forms - deliberate and free-flowing.
 Deliberate knowledge acquisition in 3 fields
 
 - Personal: Observe our patterns of behavior, and understand whether or not it aligns with goals one has set for himself. Observing oneself also inevitably brings to light one's strengths and weaknesses, and allows the opportunity to experiment with them.
-  - [Journaling](/posts/journaling).
-  - [Quantified self](/posts/quantified_self).
-  - [Mindfulness]]/[[Metacognition](/posts/mindfulness]]/[[metacognition)
+  - Journaling
+  - Quantified self
+  - Mindfulness/Metacognition
 - Professional: In real life, one must earn a living. Whether you view your profession in materialistic terms or philosophical terms, It behooves us to do it better. Find your [Circle of competence](/posts/circle_of_competence) and expand it.
 - Spiritual/Philosophical: Everybody should deal with questions like what is my purpose, what is my life philosophy, and a tangential set of why's. It is not necessary to find answers to these questions. However, completely avoiding tussles with them might lead to finding ourselves having mislived. See [Living in bad faith](/posts/living_in_bad_faith)
 
