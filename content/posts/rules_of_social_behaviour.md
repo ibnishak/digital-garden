@@ -15,6 +15,6 @@ id: 20220215130451591
     - The best of jihad is a just word spoken to an unjust ruler.” - IbnMaja 4011
 - “To refrain from imitation is the best revenge. — Marcus Aurelius, Meditations”
   - This is an exhortion to not hurt someone back the same way they hurt you.
-  - One should always remember to imitate the good from whatever sources one can find. See tangent: [Ad hominem|Guilt by Association in Ad hominem fallacy](/posts/ad_hominem|guilt_by_association_in_ad_hominem_fallacy)
+  - One should always remember to imitate the good from whatever sources one can find. See tangent: [Ad hominem|Guilt by Association in Ad hominem fallacy](/digital-garden/ad_hominem|guilt_by_association_in_ad_hominem_fallacy)
 - Admit when you do not know.
   - #interrupt-your-thinking When somebody asks something, interrupt your urge to answer. Do I really know this or am I giving my opinion?

@@ -12,7 +12,7 @@ id: 20220317152036516
 Accessories folder is served over a localhost port using a basic HTTP server. Images and Videos are then embedded in notes using the URL.
 This affords me the following conveniences:
 
-1. Keep heavy files out of obsidian vaults. This leaves just text in obsidian vaults which I can encrypt and store in any number of free cloud storage services. See [Rclone](/posts/rclone)
+1. Keep heavy files out of obsidian vaults. This leaves just text in obsidian vaults which I can encrypt and store in any number of free cloud storage services. See [Rclone](/digital-garden/rclone)
 2. No need to worry about a bunch of ignore rules for backup and version control of vaults. The Accessories folder is backed up weekly to external hard drives weekly.
 3. Use images and videos in other software (e.g.: Anki) without concern about their exact location in the file system.
 

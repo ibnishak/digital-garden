@@ -4,7 +4,7 @@ title: Tiddlywiki - Inability to scale
 
 
 
-See [Scalability Limits for Note taking Applications](/posts/scalability_limits_for_note_taking_applications)
+See [Scalability Limits for Note taking Applications](/digital-garden/scalability_limits_for_note_taking_applications)
 
 There are [claims in the official website][1] about how much data can a single Tiddlywiki can hold. However, no actual benchmarks are given. I looked around and found the biggest public examples of Tiddlywiki I could find:
 

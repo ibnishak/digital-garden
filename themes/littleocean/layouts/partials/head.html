@@ -9,11 +9,10 @@
 />
 <meta name="apple-mobile-web-app-capable" content="yes" />
 
-<link href="/favicon.png" rel="icon" type="image/x-icon" />
+<link href="/favicon.ico" rel="icon" type="image/x-icon" />
 
-{{ $IndexCss := resources.Get "/css/index.scss" | resources.ToCSS (dict
-"outputStyle" "compressed") | fingerprint }}
-<link rel="stylesheet" href="{{ $IndexCss.RelPermalink }}" />
+ {{ $style := resources.Get "css/index.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 
 <style type="text/css">
   :root {

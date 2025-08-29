@@ -13,6 +13,6 @@ Fair warning: This is essentially workflow documentation. Workflows are unique t
 
 Also, semi-mandatory watching: [CollegeHumor: May be this will fix my life][1]
 
-- [Organization of my notes](/posts/note-taking_-_organization_of_the_zeroth_folder)
+- [Organization of my notes](/digital-garden/note-taking_-_organization_of_the_zeroth_folder)
 
 [1]: https://www.youtube.com/watch?v=9Lnrj1jZG7I

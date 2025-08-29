@@ -4,7 +4,7 @@ title: "Notes on Fourth Migration"
 
 
 
-As mentioned in [History of Notes Migration](/posts/history_of_notes_migration), what prompted this migration was Tiddlywiki's inability to scale. See [Tiddlywiki - Inability to scale](/posts/tiddlywiki_-_inability_to_scale). True to the [Infinite buffet approach](/posts/infinite_buffet_approach), I decided to see what is around and what all fits my [[Note taking Apps - Criteria](/posts/note_taking_apps_-_criteria), what prompted this migration was Tiddlywiki's inability to scale. See [[Tiddlywiki - Inability to scale]]. True to the [[Infinite buffet approach]], I decided to see what is around and what_all_fits_my\_[[Note_taking_Apps\_-_Criteria).
+As mentioned in [History of Notes Migration](/digital-garden/history_of_notes_migration), what prompted this migration was Tiddlywiki's inability to scale. See [Tiddlywiki - Inability to scale](/digital-garden/tiddlywiki_-_inability_to_scale). True to the [Infinite buffet approach](/digital-garden/infinite_buffet_approach), I decided to see what is around and what all fits my [[Note taking Apps - Criteria](/digital-garden/note_taking_apps_-_criteria), what prompted this migration was Tiddlywiki's inability to scale. See [[Tiddlywiki - Inability to scale]]. True to the [[Infinite buffet approach]], I decided to see what is around and what_all_fits_my\_[[Note_taking_Apps\_-_Criteria).
 
 Every migration is painful. Every migration is also intended to be the last. So I tried to introduce little more resilience this time. Instead of choosing a single note taking application, I chose markdown with extra features that is supported by more than 1 application. These extra features include
 

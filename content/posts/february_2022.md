@@ -3,9 +3,9 @@ title: February 2022
 ---
 
 
-- [Interesting Obsidian plugins](/posts/interesting_obsidian_plugins)
-- [Digital Garden - Comparison with blog](/posts/digital-garden-comparison-with-blog)
-- [Knowledge Acquisition](/posts/knowledge_acquisition)
-- [Kintsukuroi](/posts/kintsukuroi)
-- [Ad hominem](/posts/ad_hominem)
-- [Pomodoro](/posts/pomodoro)
+- [Interesting Obsidian plugins](/digital-garden/interesting_obsidian_plugins)
+- [Digital Garden - Comparison with blog](/digital-garden/digital-garden-comparison-with-blog)
+- [Knowledge Acquisition](/digital-garden/knowledge_acquisition)
+- [Kintsukuroi](/digital-garden/kintsukuroi)
+- [Ad hominem](/digital-garden/ad_hominem)
+- [Pomodoro](/digital-garden/pomodoro)

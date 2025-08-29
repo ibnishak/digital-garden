@@ -16,7 +16,7 @@ id: 20220304211433576
 2. Privacy and Offline Accessibility.
 3. Mobile Accessibility.
 4. Scalable.
-   - See [Scalability Limits for Note taking Applications](/posts/scalability_limits_for_note_taking_applications)
+   - See [Scalability Limits for Note taking Applications](/digital-garden/scalability_limits_for_note_taking_applications)
 5. Ability to cross-link notes.
 
 ## Desired criteria.
