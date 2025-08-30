@@ -130,9 +130,6 @@ function initializePage(page, level) {
         updateLinkStatuses();
       }
       return myFetch();
-    } else {
-      element.setAttribute('target', '_blank');
-      element.classList.add('extLink');
     }
   });
 }
