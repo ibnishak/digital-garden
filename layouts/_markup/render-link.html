@@ -1,0 +1,17 @@
+
+{{- $u := urls.Parse .Destination -}}
+{{- if $u.IsAbs }}
+<a href="{{ .Destination | safeURL }}"
+  {{- with .Title }} title="{{ . }}"{{ end -}}
+   rel="external" target="_blank" class="extLink"
+>
+  {{- with .Text }}{{ . }}{{ end -}}
+</a>
+{{ else }}
+<a href="/digital-garden/{{ .Destination | safeURL }}"
+  {{- with .Title }} title="{{ . }}"{{ end -}}
+>
+  {{- with .Text }}{{ . }}{{ end -}}
+</a>
+{{ end -}}
+{{- /* chomp trailing newline */ -}}

@@ -11,8 +11,8 @@
 
 <link href="/favicon.ico" rel="icon" type="image/x-icon" />
 
- {{ $style := resources.Get "css/index.css" | minify | fingerprint }}
-    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+{{ $style := resources.Get "css/index.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}">
 
 <style type="text/css">
   :root {

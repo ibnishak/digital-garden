@@ -21,4 +21,4 @@ A practical tactic is to look at your explanation of a situation, break it down 
 
 opt for the former explanation.
 
-- Contrast with [Hickams dictum](/digital-garden/hickams_dictum)
+- Contrast with [Hickams dictum](hickams_dictum)

@@ -29,7 +29,7 @@ Two Obsidian vaults.
 In addition, I have five more folders.
 
 1. Intake – Everything in pre-processed stage.
-2. Accessories – images, videos, some zsh scripts pertaining to note-taking workflow, part of Obsidian configs, HTML files downloaded by Scrap bee. See [Notes on Accessories Folder](/digital-garden/notes_on_accessories_folder)
+2. Accessories – images, videos, some zsh scripts pertaining to note-taking workflow, part of Obsidian configs, HTML files downloaded by Scrap bee. See [Notes on Accessories Folder](notes_on_accessories_folder)
 3. Code snippets. This is the base folder for [navi][1]
 4. Trackers: Mostly JSON from Nomie, some Excel sheets. Converted to graphs which is stored in Accessories folder.
 

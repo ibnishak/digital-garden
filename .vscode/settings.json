@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        ".hugo*": true,
+        "i18n": true,
+        "public/": true
+    }
+}

@@ -1,10 +1,14 @@
 <header>
-  <a href="/" id="logo-and-title">
+  <a href="{{ .Site.BaseURL }}" id="logo-and-title">
     {{ $logoUrl := index .Site.Params "logoUrl" }}
     <div class="site-logo">
-      {{ if $logoUrl }} <img class="site-logo" src="{{ $logoUrl }}" />{{ end }}
+     <img class="site-logo" src="{{ .Site.BaseURL }}favicon.ico" />
     </div>
     <div class="site-title">{{.Site.Title}}</div>
   </a>
+  <div class="headerlinks">
+  <a href="{{ .Site.BaseURL }}notes_by_calendar">Notes by calendar</a>
+  <a href="{{ .Site.BaseURL }}notes_by_category">Notes by category</a>
+  </div>
   {{/*  {{- partial "search-form.html" . -}}  */}}
 </header>

@@ -5,4 +5,4 @@ theme = 'littleocean'
 
 [permalinks]
   [permalinks.page]
-    posts = ':filename'
+    posts = ':contentbasename'
