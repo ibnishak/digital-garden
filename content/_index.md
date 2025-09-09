@@ -2,10 +2,10 @@
 title: About
 ---
 
-This is collection of small notes build with gatsby using [Gatsby theme garden][1]. In here I tend to write about practically anything that interests me.
+Hi. My name is Dr. Rizwan Ishak.
 
-- [Notes by Calendar](notes_by_calendar)
-- [Notes by Category](notes_by_category)
+This is collection of small notes. In here I tend to write about practically anything that interests me.
 
-[1]: https://www.npmjs.com/package/gatsby-theme-garden
-    
+- [Notes by Calendar](0B-notes_by_calendar)
+- [Notes by Category](0A-notes_by_category)
+
