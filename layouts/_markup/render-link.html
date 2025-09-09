@@ -8,7 +8,8 @@
   {{- with .Text }}{{ . }}{{ end -}}
 </a>
 {{ else }}
-<a href="/digital-garden/{{ .Destination | safeURL }}"
+{{- $u := path.BaseName .Destination -}}
+<a href="/digital-garden/{{ $u | safeURL }}"
   {{- with .Title }} title="{{ . }}"{{ end -}}
 >
   {{- with .Text }}{{ . }}{{ end -}}

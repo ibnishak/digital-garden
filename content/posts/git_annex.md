@@ -1,9 +1,5 @@
 ---
 title: "Git Annex - Setup and Workflow"
-tags:
-up:
-aliases:
-status:
 id: 20220222151700769
 ---
 
