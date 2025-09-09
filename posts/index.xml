@@ -41,6 +41,29 @@
 &lt;li&gt;Just because our argument aligns with a malefactor, does not mean all our arguments are invalid. Inorder to prove otherwise, one have to show that deplorable arguments of the malefactor can be derived from this.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Assumptions of ANOVA</title><link>https://ibnishak.github.io/digital-garden/anova_assumptions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/anova_assumptions/</guid><description>&lt;ul&gt;
+&lt;li&gt;Independence: the observations should be independent between groups and within each group.&lt;/li&gt;
+&lt;li&gt;Normality
+&lt;ul&gt;
+&lt;li&gt;Normality assumption applies to the residuals.
+&lt;ul&gt;
+&lt;li&gt;Plot the standardized residuals to see if they are normal and centered around zero&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;If there is only few groups and each group has many values, check normality separately for each group.&lt;/li&gt;
+&lt;li&gt;If you have many groups (a 2x2x3 ANOVA has 12 groups) or if there are few observations per group, check them all together.&lt;/li&gt;
+&lt;li&gt;If you have a continuous covariate in the model as well, you CANNOT check per group.&lt;/li&gt;
+&lt;li&gt;For small samples, normality check is a must.&lt;/li&gt;
+&lt;li&gt;For large samples (usually n≥30 in each group/sample), normality is not required (central limit theorem)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Outliers: There should be no significant outliers in any group.&lt;/li&gt;
+&lt;li&gt;Homoscedasticity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="homoscedasticity-aka-are-variances-are-equal"&gt;Homoscedasticity aka are variances are equal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bartlett test when your data are normally distributed and sample sizes are similar,&lt;/li&gt;
+&lt;li&gt;Levene test when data are non-normally distributed or if outliers are suspected.&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Availability Bias</title><link>https://ibnishak.github.io/digital-garden/availability_bias/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/availability_bias/</guid><description>&lt;p&gt;Idea: Are there more English words that start with a k or more words with k as its third letter? Answer: More than twice as many English words have k in the third position than start with a k. Why do most people believe the opposite is true? Because we can think of words beginning with a k more quickly. They are more available to our memory.&lt;/p&gt;
 &lt;p&gt;The availability bias says this: We create a picture of the world using the examples that most easily come to mind. This is idiotic, of course, because in reality, things don’t happen more frequently just because we can conceive of them more easily. It is as if you were in a foreign city without a map, and then pulled out one for your hometown and simply used that. We prefer wrong information to no information.&lt;/p&gt;</description></item><item><title>Circle of Competence</title><link>https://ibnishak.github.io/digital-garden/circle_of_competence/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/circle_of_competence/</guid><description>&lt;p&gt;Understanding your circle of competence helps you avoid problems, identify opportunities for improvement, and learn from others.&lt;/p&gt;
 &lt;p&gt;The size of that circle is not very important; knowing its boundaries, however, is vital.&lt;/p&gt;
@@ -90,24 +113,31 @@
 &lt;li&gt;Posts are published after a certain finality is achieved. It is more performative writing.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;In comparison, digital gardens are more like a personal mini Wikipedia.&lt;/p&gt;</description></item><item><title>Ethics of Capitalism</title><link>https://ibnishak.github.io/digital-garden/ethics_of_capitalism/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/ethics_of_capitalism/</guid><description>&lt;p&gt;Capitalism do not support liberty as a primary ethical value. Capitalism supports liberty because it aids them to generate more profit. If a condition arises where curtailing liberties of a population will help them generate more profit, capitalism will find no reason not to support that. Louis Vuitton during German occupation, Apple exploitation of Chinese children, slave supported economies etc
-Towards this aim they are ready to exploit any loophole or sacifice any ethical position. For a company in capitalist society, failure to be this ruthless would mean some other company will overtake them using the same loophole.&lt;/p&gt;</description></item><item><title>February 2022</title><link>https://ibnishak.github.io/digital-garden/february_2022/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/february_2022/</guid><description>&lt;ul&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/interesting_obsidian_plugins"&gt;Interesting Obsidian plugins&lt;/a&gt;
+Towards this aim they are ready to exploit any loophole or sacifice any ethical position. For a company in capitalist society, failure to be this ruthless would mean some other company will overtake them using the same loophole.&lt;/p&gt;</description></item><item><title>February 2022</title><link>https://ibnishak.github.io/digital-garden/1a-0222/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/1a-0222/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/interesting_obsidian_plugins"&gt;Interesting Obsidian plugins&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/digital-garden-comparison-with-blog"&gt;Digital Garden - Comparison with blog&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/digital-garden-comparison-with-blog"&gt;Digital Garden - Comparison with blog&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/knowledge_acquisition"&gt;Knowledge Acquisition&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/knowledge_acquisition"&gt;Knowledge Acquisition&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/kintsukuroi"&gt;Kintsukuroi&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/kintsukuroi"&gt;Kintsukuroi&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/ad_hominem"&gt;Ad hominem&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/ad_hominem"&gt;Ad hominem&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/pomodoro"&gt;Pomodoro&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/pomodoro"&gt;Pomodoro&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>February 2022</title><link>https://ibnishak.github.io/digital-garden/february_2022/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/february_2022/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/interesting_obsidian_plugins"&gt;Interesting Obsidian plugins&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/digital-garden-comparison-with-blog"&gt;Digital Garden - Comparison with blog&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/knowledge_acquisition"&gt;Knowledge Acquisition&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/kintsukuroi"&gt;Kintsukuroi&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/ad_hominem"&gt;Ad hominem&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/pomodoro"&gt;Pomodoro&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>First Principle Thinking</title><link>https://ibnishak.github.io/digital-garden/first_principle_thinking/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/first_principle_thinking/</guid><description>&lt;p&gt;First Principles Thinking (FPT) is starting from unequivocal base facts and building up toward some vision or explanation of reality.&lt;/p&gt;</description></item><item><title>follicle</title><link>https://ibnishak.github.io/digital-garden/follicles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/follicles/</guid><description>&lt;p&gt;Follicle = a small spherical group of cells containing a cavity&lt;/p&gt;
 &lt;p&gt;eg:&lt;/p&gt;
@@ -206,8 +236,7 @@ metadata.db
 &lt;ol&gt;
 &lt;li&gt;Create good first impressions&lt;/li&gt;
 &lt;/ol&gt;</description></item><item><title>Heros</title><link>https://ibnishak.github.io/digital-garden/heros/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/heros/</guid><description>&lt;ul&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/abu-ubaidah"&gt;Abu Ubaidah ibn Jarrah&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/abu-ubaidah"&gt;Abu Ubaidah ibn Jarrah&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Hickams dictum</title><link>https://ibnishak.github.io/digital-garden/hickams_dictum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/hickams_dictum/</guid><description>&lt;p&gt;patients can have as many diseases as they damn (or darn) well please&lt;/p&gt;
 &lt;p&gt;If all the symptoms of a patient is explained by&lt;/p&gt;
@@ -235,15 +264,13 @@ Document your experiments and predictions&lt;/p&gt;</description></item><item><t
 &lt;h2 id="counter"&gt;Counter&lt;/h2&gt;
 &lt;p&gt;Think in second order.&lt;/p&gt;</description></item><item><title>Inclusion body</title><link>https://ibnishak.github.io/digital-garden/inclusion_body/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/inclusion_body/</guid><description>&lt;p&gt;Inclusion bodies are dense, spherical, aggregated proteins, mostly formed in the cytoplasm of prokaryotes&lt;/p&gt;</description></item><item><title>Inclusion body conjunctivitis</title><link>https://ibnishak.github.io/digital-garden/inclusion_body_conjunctivitis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/inclusion_body_conjunctivitis/</guid><description>&lt;ul&gt;
 &lt;li&gt;Conjunctivitis caused by Chlamydia&lt;/li&gt;
-&lt;li&gt;Shows Cytoplasmic 
-&lt;a href="https://ibnishak.github.io/digital-garden/inclusion_body%7cinclusion_bodies"&gt;Inclusion body|Inclusion bodies&lt;/a&gt;
+&lt;li&gt;Shows Cytoplasmic &lt;a href="https://ibnishak.github.io/digital-garden/inclusion_body%7cinclusion_bodies"&gt;Inclusion body|Inclusion bodies&lt;/a&gt;
  - HP bodies
 &lt;ul&gt;
 &lt;li&gt;HP = Halberstaedter-Prowazeki bodies&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Superior limbal 
-&lt;a href="https://ibnishak.github.io/digital-garden/follicles"&gt;follicles&lt;/a&gt;
+&lt;li&gt;Superior limbal &lt;a href="https://ibnishak.github.io/digital-garden/follicles"&gt;follicles&lt;/a&gt;
  may resolve to leave a row of shallow depressions called &lt;strong&gt;Herbert pits&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Infinite buffet approach</title><link>https://ibnishak.github.io/digital-garden/infinite_buffet_approach/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/infinite_buffet_approach/</guid><description>&lt;p&gt;Life is a buffet with infinite choices. In the initial stage, one should explore rapidly. After a while, one should revisit the best out of choices tested till then. While choices are infinite, our time and tummy space is finite. After this stage one ought to split their time to revisiting best out of known choices and exploring further. The ratio of time will keep tilting towards former but one ought to take care not to tip over.&lt;/p&gt;</description></item><item><title>Interesting Obsidian Plugins</title><link>https://ibnishak.github.io/digital-garden/interesting_obsidian_plugins/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/interesting_obsidian_plugins/</guid><description>&lt;h2 id="for-everyone"&gt;For Everyone&lt;/h2&gt;
 &lt;ul&gt;
@@ -330,15 +357,12 @@ Document your experiments and predictions&lt;/p&gt;</description></item><item><t
 &lt;li&gt;Mindfulness/Metacognition&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Professional: In real life, one must earn a living. Whether you view your profession in materialistic terms or philosophical terms, It behooves us to do it better. Find your 
-&lt;a href="https://ibnishak.github.io/digital-garden/circle_of_competence"&gt;Circle of competence&lt;/a&gt;
+&lt;li&gt;Professional: In real life, one must earn a living. Whether you view your profession in materialistic terms or philosophical terms, It behooves us to do it better. Find your &lt;a href="https://ibnishak.github.io/digital-garden/circle_of_competence"&gt;Circle of competence&lt;/a&gt;
  and expand it.&lt;/li&gt;
-&lt;li&gt;Spiritual/Philosophical: Everybody should deal with questions like what is my purpose, what is my life philosophy, and a tangential set of why&amp;rsquo;s. It is not necessary to find answers to these questions. However, completely avoiding tussles with them might lead to finding ourselves having mislived. See 
-&lt;a href="https://ibnishak.github.io/digital-garden/living_in_bad_faith"&gt;Living in bad faith&lt;/a&gt;
+&lt;li&gt;Spiritual/Philosophical: Everybody should deal with questions like what is my purpose, what is my life philosophy, and a tangential set of why&amp;rsquo;s. It is not necessary to find answers to these questions. However, completely avoiding tussles with them might lead to finding ourselves having mislived. See &lt;a href="https://ibnishak.github.io/digital-garden/living_in_bad_faith"&gt;Living in bad faith&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;What separates knowledge acquisition different from deliberate knowledge acquisition is the portion of time dedicated to 
-&lt;a href="https://ibnishak.github.io/digital-garden/metalearning"&gt;Metalearning&lt;/a&gt;
+&lt;p&gt;What separates knowledge acquisition different from deliberate knowledge acquisition is the portion of time dedicated to &lt;a href="https://ibnishak.github.io/digital-garden/metalearning"&gt;Metalearning&lt;/a&gt;
 . In addition to acquiring knowledge, one should also evaluate the methods, reasons, and progress of knowledge acquisition ideally at fixed intervals.&lt;/p&gt;</description></item><item><title>Linear Model</title><link>https://ibnishak.github.io/digital-garden/linear-model/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/linear-model/</guid><description>&lt;p&gt;
 &lt;a href="https://bookdown.org/dereksonderegger/571/11-binomial-regression.html"rel="external" target="_blank" class="extLink"
 &gt;Source&lt;/a&gt;
@@ -374,131 +398,113 @@ Document your experiments and predictions&lt;/p&gt;</description></item><item><t
  &lt;td&gt;Continuous Normal Response&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>March 2022</title><link>https://ibnishak.github.io/digital-garden/march_2022/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/march_2022/</guid><description>&lt;ul&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/reverse_outlining"&gt;Reverse outlining&lt;/a&gt;
+&lt;/table&gt;</description></item><item><title>March 2022</title><link>https://ibnishak.github.io/digital-garden/1a-0322/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/1a-0322/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/reverse_outlining"&gt;Reverse outlining&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/criteria_for_bad_ideologies"&gt;Criteria for Bad Ideologies&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/criteria_for_bad_ideologies"&gt;Criteria for Bad Ideologies&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/rules_of_social_behaviour"&gt;Rules of Social behaviour&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/rules_of_social_behaviour"&gt;Rules of Social behaviour&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/why_learn_philosophy"&gt;Why learn Philosophy&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/why_learn_philosophy"&gt;Why learn Philosophy&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/need_for_serendipity_engines"&gt;Need for Serendipity engines&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/need_for_serendipity_engines"&gt;Need for Serendipity engines&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/git_annex"&gt;Git Annex&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/git_annex"&gt;Git Annex&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/about_criticism"&gt;About Criticism&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/about_criticism"&gt;About Criticism&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/ethics_of_capitalism"&gt;Ethics of Capitalism&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/ethics_of_capitalism"&gt;Ethics of Capitalism&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/inclusion_body_conjunctivitis"&gt;Inclusion body conjunctivitis&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/inclusion_body_conjunctivitis"&gt;Inclusion body conjunctivitis&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/follicles"&gt;Follicles&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/follicles"&gt;Follicles&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/inclusion_body"&gt;Inclusion body&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/inclusion_body"&gt;Inclusion body&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>March 2022</title><link>https://ibnishak.github.io/digital-garden/march_2022/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/march_2022/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/reverse_outlining"&gt;Reverse outlining&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/criteria_for_bad_ideologies"&gt;Criteria for Bad Ideologies&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/rules_of_social_behaviour"&gt;Rules of Social behaviour&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/why_learn_philosophy"&gt;Why learn Philosophy&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/need_for_serendipity_engines"&gt;Need for Serendipity engines&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/git_annex"&gt;Git Annex&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/about_criticism"&gt;About Criticism&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/ethics_of_capitalism"&gt;Ethics of Capitalism&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/inclusion_body_conjunctivitis"&gt;Inclusion body conjunctivitis&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/follicles"&gt;Follicles&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/inclusion_body"&gt;Inclusion body&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Memory fades</title><link>https://ibnishak.github.io/digital-garden/memory_fades/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/memory_fades/</guid><description>&lt;p&gt;Important insights, lessons etc won&amp;rsquo;t stay in memory.&lt;/p&gt;
 &lt;p&gt;The solution is both simple and hard — &lt;em&gt;Document Everything&lt;/em&gt;.&lt;/p&gt;</description></item><item><title>Mental Models</title><link>https://ibnishak.github.io/digital-garden/mental_models/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/mental_models/</guid><description>&lt;ol&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/ad_hominem"&gt;Ad hominem&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/ad_hominem"&gt;Ad hominem&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/circle_of_competence"&gt;Circle of Competence&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/circle_of_competence"&gt;Circle of Competence&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/collectors_fallacy"&gt;Collectors Fallacy&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/collectors_fallacy"&gt;Collectors Fallacy&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/confirmation_bias"&gt;Confirmation bias&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/confirmation_bias"&gt;Confirmation bias&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/conjunction_fallacy"&gt;Conjunction Fallacy&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/conjunction_fallacy"&gt;Conjunction Fallacy&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/criteria_for_bad_ideologies"&gt;Criteria for Bad Ideologies&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/criteria_for_bad_ideologies"&gt;Criteria for Bad Ideologies&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/deliberate_practice"&gt;Deliberate Practice&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/deliberate_practice"&gt;Deliberate Practice&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/diderot_effect"&gt;Diderot effect&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/diderot_effect"&gt;Diderot effect&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/dichotomy_of_control"&gt;Dichotomy of Control&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/dichotomy_of_control"&gt;Dichotomy of Control&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/first_principle_thinking"&gt;First Principle Thinking&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/first_principle_thinking"&gt;First Principle Thinking&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/fundamental_attribution_error"&gt;Fundamental attribution error&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/fundamental_attribution_error"&gt;Fundamental attribution error&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/growth_mindset"&gt;Growth mindset&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/growth_mindset"&gt;Growth mindset&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/halo_effect"&gt;Halo effect&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/halo_effect"&gt;Halo effect&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/hickams_dictum"&gt;Hickams dictum&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/hickams_dictum"&gt;Hickams dictum&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/hindsight_bias"&gt;Hindsight Bias&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/hindsight_bias"&gt;Hindsight Bias&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/hyperbolic_discounting"&gt;Hyperbolic discounting&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/hyperbolic_discounting"&gt;Hyperbolic discounting&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/infinite_buffet_approach"&gt;Infinite buffet approach&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/infinite_buffet_approach"&gt;Infinite buffet approach&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/inverse_thinking"&gt;Inverse thinking&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/inverse_thinking"&gt;Inverse thinking&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/memory_fades"&gt;Memory fades&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/memory_fades"&gt;Memory fades&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/metalearning"&gt;Metalearning&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/metalearning"&gt;Metalearning&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/occams_razor"&gt;Occams Razor&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/occams_razor"&gt;Occams Razor&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/occams_broom"&gt;Occams Broom&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/occams_broom"&gt;Occams Broom&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/oversensitivity_to_pattern"&gt;Oversensitivity to pattern&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/oversensitivity_to_pattern"&gt;Oversensitivity to pattern&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/reverse_outlining"&gt;Reverse outlining&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/reverse_outlining"&gt;Reverse outlining&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/rule_of_72"&gt;Rule of 72&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/rule_of_72"&gt;Rule of 72&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/second_order_thinking"&gt;Second order thinking&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/second_order_thinking"&gt;Second order thinking&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/survivorship_bias"&gt;Survivorship bias&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/survivorship_bias"&gt;Survivorship bias&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/the_laundry_approach"&gt;The Laundry Approach&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/the_laundry_approach"&gt;The Laundry Approach&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/veil_of_ignorance"&gt;Veil of ignorance&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/veil_of_ignorance"&gt;Veil of ignorance&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/availability_bias"&gt;Availability Bias&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/availability_bias"&gt;Availability Bias&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ol&gt;</description></item><item><title>Metalearning</title><link>https://ibnishak.github.io/digital-garden/metalearning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/metalearning/</guid><description>&lt;ul&gt;
 &lt;li&gt;Why: Determine your learning goal and ask yourself why you’ve chosen it.&lt;/li&gt;
@@ -513,27 +519,20 @@ Document your experiments and predictions&lt;/p&gt;</description></item><item><t
 &lt;li&gt;Wikipedia, Zettelkasten, StumbleUpon etc are serendipity engines.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Aggregators have overpowered serendipity engines because we find comfort in 
-&lt;a href="https://ibnishak.github.io/digital-garden/confirmation_bias"&gt;Confirmation bias&lt;/a&gt;
+&lt;li&gt;Aggregators have overpowered serendipity engines because we find comfort in &lt;a href="https://ibnishak.github.io/digital-garden/confirmation_bias"&gt;Confirmation bias&lt;/a&gt;
 .&lt;/li&gt;
-&lt;li&gt;Our imagination is limited by our experiences. Since imagination leads to queries, we need to expose ourselves to varied experiences to push our imagination. See 
-&lt;a href="https://ibnishak.github.io/digital-garden/infinite_buffet"&gt;Infinite Buffet&lt;/a&gt;
+&lt;li&gt;Our imagination is limited by our experiences. Since imagination leads to queries, we need to expose ourselves to varied experiences to push our imagination. See &lt;a href="https://ibnishak.github.io/digital-garden/infinite_buffet"&gt;Infinite Buffet&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/social_media_as_echo_chambers"&gt;Social Media as echo chambers&lt;/a&gt;
+&lt;p&gt;&lt;a href="https://ibnishak.github.io/digital-garden/social_media_as_echo_chambers"&gt;Social Media as echo chambers&lt;/a&gt;
 &lt;/p&gt;</description></item><item><title>Note taking and workflows</title><link>https://ibnishak.github.io/digital-garden/note_taking_and_workflows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/note_taking_and_workflows/</guid><description>&lt;ul&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/note_taking_apps_-_criteria"&gt;Note taking Apps - Criteria&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/note_taking_apps_-_criteria"&gt;Note taking Apps - Criteria&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/history_of_notes_migration"&gt;History of Notes Migration&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/history_of_notes_migration"&gt;History of Notes Migration&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/tiddlywiki_-_an_exit_interview"&gt;Tiddlywiki - An exit interview&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/tiddlywiki_-_an_exit_interview"&gt;Tiddlywiki - An exit interview&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/obsidian_-_notes_on_workflow"&gt;Obsidian - Notes on Workflow&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/obsidian_-_notes_on_workflow"&gt;Obsidian - Notes on Workflow&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Note taking Apps - Criteria</title><link>https://ibnishak.github.io/digital-garden/note_taking_apps_-_criteria/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/note_taking_apps_-_criteria/</guid><description>&lt;h2 id="essential-criteria"&gt;Essential criteria.&lt;/h2&gt;
 &lt;ol&gt;
@@ -546,8 +545,7 @@ Document your experiments and predictions&lt;/p&gt;</description></item><item><t
 &lt;li&gt;Mobile Accessibility.&lt;/li&gt;
 &lt;li&gt;Scalable.
 &lt;ul&gt;
-&lt;li&gt;See 
-&lt;a href="https://ibnishak.github.io/digital-garden/scalability_limits_for_note_taking_applications"&gt;Scalability Limits for Note taking Applications&lt;/a&gt;
+&lt;li&gt;See &lt;a href="https://ibnishak.github.io/digital-garden/scalability_limits_for_note_taking_applications"&gt;Scalability Limits for Note taking Applications&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -607,51 +605,57 @@ Document your experiments and predictions&lt;/p&gt;</description></item><item><t
 &lt;/li&gt;
 &lt;li&gt;Academic – Personal Medical Wikipedia.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;In addition, I have five more folders.&lt;/p&gt;</description></item><item><title>Notes by Calendar</title><link>https://ibnishak.github.io/digital-garden/notes_by_calendar/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/notes_by_calendar/</guid><description>&lt;ul&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/february_2022"&gt;February 2022&lt;/a&gt;
+&lt;p&gt;In addition, I have five more folders.&lt;/p&gt;</description></item><item><title>Notes by Calendar</title><link>https://ibnishak.github.io/digital-garden/0b-notes_by_calendar/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/0b-notes_by_calendar/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/1A-0222"&gt;February 2022&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/march_2022"&gt;March 2022&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/1A-0322"&gt;March 2022&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/1A-0825"&gt;Sept 2025&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Notes by Calendar</title><link>https://ibnishak.github.io/digital-garden/notes_by_calendar/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/notes_by_calendar/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/february_2022"&gt;February 2022&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/march_2022"&gt;March 2022&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Notes by category</title><link>https://ibnishak.github.io/digital-garden/0a-notes_by_category/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/0a-notes_by_category/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/mental_models"&gt;Mental Models&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/note_taking_and_workflows"&gt;Note taking and Workflows&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/heros"&gt;Heros&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/statistics"&gt;Statistics&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Notes by category</title><link>https://ibnishak.github.io/digital-garden/notes_by_category/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/notes_by_category/</guid><description>&lt;ul&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/mental_models"&gt;Mental Models&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/mental_models"&gt;Mental Models&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/note_taking_and_workflows"&gt;Note taking and Workflows&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/note_taking_and_workflows"&gt;Note taking and Workflows&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/heros"&gt;Heros&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/heros"&gt;Heros&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/statistics"&gt;Statistics&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/statistics"&gt;Statistics&lt;/a&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Notes on Accessories Folder</title><link>https://ibnishak.github.io/digital-garden/notes_on_accessories_folder/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/notes_on_accessories_folder/</guid><description>&lt;p&gt;Accessories folder is served over a localhost port using a basic HTTP server. Images and Videos are then embedded in notes using the URL.
+&lt;/ul&gt;</description></item><item><title>Notes of mental anguish</title><link>https://ibnishak.github.io/digital-garden/notes-of-mental-anguish/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/notes-of-mental-anguish/</guid><description>&lt;p&gt;Have you ever heard the wise-crack that goes like, it is not the falling that kills you, it is the sudden stop at the end.&lt;/p&gt;
+&lt;p&gt;I have always felt alone. I have no issues with that. I am reasonably productive with it. That does not mean I am socially awkward. As a matter of fact, I am reasonably good at socializing.&lt;/p&gt;
+&lt;p&gt;But at the end of day, I feel alone. And that loneliness is killing me.&lt;/p&gt;</description></item><item><title>Notes on Accessories Folder</title><link>https://ibnishak.github.io/digital-garden/notes_on_accessories_folder/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/notes_on_accessories_folder/</guid><description>&lt;p&gt;Accessories folder is served over a localhost port using a basic HTTP server. Images and Videos are then embedded in notes using the URL.
 This affords me the following conveniences:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Keep heavy files out of obsidian vaults. This leaves just text in obsidian vaults which I can encrypt and store in any number of free cloud storage services. See 
-&lt;a href="https://ibnishak.github.io/digital-garden/rclone"&gt;Rclone&lt;/a&gt;
+&lt;li&gt;Keep heavy files out of obsidian vaults. This leaves just text in obsidian vaults which I can encrypt and store in any number of free cloud storage services. See &lt;a href="https://ibnishak.github.io/digital-garden/rclone"&gt;Rclone&lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;No need to worry about a bunch of ignore rules for backup and version control of vaults. The Accessories folder is backed up weekly to external hard drives weekly.&lt;/li&gt;
 &lt;li&gt;Use images and videos in other software (e.g.: Anki) without concern about their exact location in the file system.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Obsidian config that is shared between vaults is also kept in Accessories folder and symlinked to each vault. Shared configs include plugins, hotkeys, CSS snippets, and themes. Vault specific config, which remains within vault, controls things like which plugin/themes etc. are active in that specific vault.&lt;/p&gt;</description></item><item><title>Notes on Fourth Migration</title><link>https://ibnishak.github.io/digital-garden/notes_on_fourth_migration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/notes_on_fourth_migration/</guid><description>&lt;p&gt;As mentioned in 
-&lt;a href="https://ibnishak.github.io/digital-garden/history_of_notes_migration"&gt;History of Notes Migration&lt;/a&gt;
-, what prompted this migration was Tiddlywiki&amp;rsquo;s inability to scale. See 
-&lt;a href="https://ibnishak.github.io/digital-garden/tiddlywiki_-_inability_to_scale"&gt;Tiddlywiki - Inability to scale&lt;/a&gt;
-. True to the 
-&lt;a href="https://ibnishak.github.io/digital-garden/infinite_buffet_approach"&gt;Infinite buffet approach&lt;/a&gt;
-, I decided to see what is around and what all fits my [
-&lt;a href="https://ibnishak.github.io/digital-garden/note_taking_apps_-_criteria"&gt;Note taking Apps - Criteria&lt;/a&gt;
+&lt;p&gt;Obsidian config that is shared between vaults is also kept in Accessories folder and symlinked to each vault. Shared configs include plugins, hotkeys, CSS snippets, and themes. Vault specific config, which remains within vault, controls things like which plugin/themes etc. are active in that specific vault.&lt;/p&gt;</description></item><item><title>Notes on Fourth Migration</title><link>https://ibnishak.github.io/digital-garden/notes_on_fourth_migration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/notes_on_fourth_migration/</guid><description>&lt;p&gt;As mentioned in &lt;a href="https://ibnishak.github.io/digital-garden/history_of_notes_migration"&gt;History of Notes Migration&lt;/a&gt;
+, what prompted this migration was Tiddlywiki&amp;rsquo;s inability to scale. See &lt;a href="https://ibnishak.github.io/digital-garden/tiddlywiki_-_inability_to_scale"&gt;Tiddlywiki - Inability to scale&lt;/a&gt;
+. True to the &lt;a href="https://ibnishak.github.io/digital-garden/infinite_buffet_approach"&gt;Infinite buffet approach&lt;/a&gt;
+, I decided to see what is around and what all fits my [&lt;a href="https://ibnishak.github.io/digital-garden/note_taking_apps_-_criteria"&gt;Note taking Apps - Criteria&lt;/a&gt;
 , what prompted this migration was Tiddlywiki&amp;rsquo;s inability to scale. See [[Tiddlywiki - Inability to scale]]. True to the [[Infinite buffet approach]], I decided to see what is around and what_all_fits_my_[[Note_taking_Apps_-_Criteria).&lt;/p&gt;</description></item><item><title>Obsidian - Notes on Workflow</title><link>https://ibnishak.github.io/digital-garden/obsidian_-_notes_on_workflow/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/obsidian_-_notes_on_workflow/</guid><description>&lt;p&gt;Fair warning: This is essentially workflow documentation. Workflows are unique to one&amp;rsquo;s situation. So take pieces you seem worth taking, and let me know if you have shinier pieces to share. I have no monetary interest here, so you may relax.&lt;/p&gt;
 &lt;p&gt;Also, semi-mandatory watching: 
 &lt;a href="https://www.youtube.com/watch?v=9Lnrj1jZG7I"rel="external" target="_blank" class="extLink"
 &gt;CollegeHumor: May be this will fix my life&lt;/a&gt;
 &lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/note-taking_-_organization_of_the_zeroth_folder"&gt;Organization of my notes&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/note-taking_-_organization_of_the_zeroth_folder"&gt;Organization of my notes&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Occams Broom</title><link>https://ibnishak.github.io/digital-garden/occams_broom/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/occams_broom/</guid><description>&lt;p&gt;Urge to hide inconvenient facts that don’t fit into one’s hypothesis.&lt;/p&gt;</description></item><item><title>Occams Razor</title><link>https://ibnishak.github.io/digital-garden/occams_razor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/occams_razor/</guid><description>&lt;p&gt;It advises that the simplest explanation is most likely to be true&lt;/p&gt;
 &lt;p&gt;A practical tactic is to look at your explanation of a situation, break it down into its constituent assumptions, and for each one, ask yourself: Does this assumption really need to be here? What evidence do I have that it should remain? Is it a false dependency?&lt;/p&gt;
@@ -665,18 +669,15 @@ This affords me the following conveniences:&lt;/p&gt;
 &lt;p&gt;The human brain seeks patterns and rules. In fact, it takes it one step further: If it finds no familiar patterns, it simply invents some. The more diffuse the signal, such as the background noise on the tape, the easier it is to find “hidden messages” in it.&lt;/p&gt;</description></item><item><title>Pomodoro</title><link>https://ibnishak.github.io/digital-garden/pomodoro/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/pomodoro/</guid><description>&lt;ul&gt;
 &lt;li&gt;Set a timer and a single realistic goal. &lt;strong&gt;A realistic goal = median of previous performances.&lt;/strong&gt;
 &lt;ul&gt;
-&lt;li&gt;See also 
-&lt;a href="https://ibnishak.github.io/digital-garden/bayesian_thinking"&gt;Bayesian Thinking&lt;/a&gt;
+&lt;li&gt;See also &lt;a href="https://ibnishak.github.io/digital-garden/bayesian_thinking"&gt;Bayesian Thinking&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Get into 
-&lt;a href="https://ibnishak.github.io/digital-garden/flow"&gt;Flow&lt;/a&gt;
+&lt;li&gt;Get into &lt;a href="https://ibnishak.github.io/digital-garden/flow"&gt;Flow&lt;/a&gt;
  for that amount of time.&lt;/li&gt;
 &lt;li&gt;Raise the counter and take a break.
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/things_to_do_while_taking_pomodoro_breaks"&gt;Things to do while taking pomodoro breaks&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/things_to_do_while_taking_pomodoro_breaks"&gt;Things to do while taking pomodoro breaks&lt;/a&gt;
 .&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -695,9 +696,10 @@ This affords me the following conveniences:&lt;/p&gt;
 &lt;li&gt;If inflation rates go from 2% to 3%, your money will lose half its value in 24 years instead of 36.&lt;/li&gt;
 &lt;li&gt;If population grows at 2% rate, it will double in 36 years.&lt;/li&gt;
 &lt;li&gt;If Bank offers 10% interest rate, your money will double in 7.2 years&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Rules of Social behaviour</title><link>https://ibnishak.github.io/digital-garden/rules_of_social_behaviour/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/rules_of_social_behaviour/</guid><description>&lt;ul&gt;
-&lt;li&gt;Prophet SAW said, ‘Whoever believes in God and the Last Day should &lt;strong&gt;speak a good word or remain silent.&lt;/strong&gt;’
+&lt;/ul&gt;</description></item><item><title>Rules of Social behaviour</title><link>https://ibnishak.github.io/digital-garden/rules_of_social_behaviour/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/rules_of_social_behaviour/</guid><description>&lt;ol&gt;
+&lt;li&gt;Speak good or remain silent.
 &lt;ul&gt;
+&lt;li&gt;Prophet SAW said, ‘Whoever believes in God and the Last Day should &lt;strong&gt;speak a good word or remain silent.&lt;/strong&gt;’&lt;/li&gt;
 &lt;li&gt;This is an exhortion to avoid unnecessarily criticising and engaging in debate. When one criticize or debate, one must #interrupt-your-thinking to ask if the subject is actually wrong and warrants a debate.&lt;/li&gt;
 &lt;li&gt;One should not remain silent when faced with wrong-doing
 &lt;ul&gt;
@@ -707,20 +709,26 @@ This affords me the following conveniences:&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;“To refrain from imitation is the best revenge. — Marcus Aurelius, Meditations”
+&lt;li&gt;Refrain from Tit for Tat
 &lt;ul&gt;
+&lt;li&gt;“To refrain from imitation is the best revenge. — Marcus Aurelius, Meditations”&lt;/li&gt;
 &lt;li&gt;This is an exhortion to not hurt someone back the same way they hurt you.&lt;/li&gt;
-&lt;li&gt;One should always remember to imitate the good from whatever sources one can find. See tangent: 
-&lt;a href="https://ibnishak.github.io/digital-garden/ad_hominem%7cguilt_by_association_in_ad_hominem_fallacy"&gt;Ad hominem|Guilt by Association in Ad hominem fallacy&lt;/a&gt;
+&lt;li&gt;One should always remember to imitate the good from whatever sources one can find. See tangent: &lt;a href="https://ibnishak.github.io/digital-garden/ad_hominem"&gt;Guilt by Association in Ad hominem fallacy&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Admit when you do not know.
 &lt;ul&gt;
-&lt;li&gt;#interrupt-your-thinking When somebody asks something, interrupt your urge to answer. Do I really know this or am I giving my opinion?&lt;/li&gt;
+&lt;li&gt;When somebody asks something, interrupt your urge to answer. Do I really know this or am I giving my opinion?&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Scalability Limits for Note taking Applications</title><link>https://ibnishak.github.io/digital-garden/scalability_limits_for_note_taking_applications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/scalability_limits_for_note_taking_applications/</guid><description>&lt;p&gt;Let us assume we take 20 notes per day all together - journal, snippets, bookmarks and all.&lt;/p&gt;
+&lt;li&gt;Act without expectation of reciprocity
+&lt;ul&gt;
+&lt;li&gt;“The kindest act toward you in your life may come from an outsider not interested in reciprocation.” - Taleb&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;While it is important to be right, it is more important to be kind&lt;/li&gt;
+&lt;/ol&gt;</description></item><item><title>Scalability Limits for Note taking Applications</title><link>https://ibnishak.github.io/digital-garden/scalability_limits_for_note_taking_applications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/scalability_limits_for_note_taking_applications/</guid><description>&lt;p&gt;Let us assume we take 20 notes per day all together - journal, snippets, bookmarks and all.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;In a year, 7500 is a good approximation.&lt;/li&gt;
 &lt;li&gt;In 10 years, that becomes 75K.&lt;/li&gt;
@@ -739,16 +747,38 @@ This affords me the following conveniences:&lt;/p&gt;
 &lt;li&gt;Overthinking? This needs a tricky balance. The skill to acquire is the ability to realise when you are being overwhelmed and break your thought process there.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ol&gt;</description></item><item><title>Statistics</title><link>https://ibnishak.github.io/digital-garden/statistics/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/statistics/</guid><description>&lt;ul&gt;
-&lt;li&gt;
-&lt;a href="https://ibnishak.github.io/digital-garden/linear-model"&gt;Linear model&lt;/a&gt;
+&lt;/ol&gt;</description></item><item><title>Self certify your achievments</title><link>https://ibnishak.github.io/digital-garden/self-certify-your-achievements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/self-certify-your-achievements/</guid><description>&lt;p&gt;Whenever you achieve something, cut out a piece of paper (5cm x 5cm), doodle something in it, write down your achievement with date and stick it on a wall. Helps in those &amp;ldquo;I hate myself phases&amp;rdquo;&lt;/p&gt;
+&lt;h2 id="rules"&gt;Rules&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Your own achievements. Not happy memories involving others.
+&lt;ul&gt;
+&lt;li&gt;People are complicated. Relationships can go sour and those happy memories could become bitter. You want a pick me up during low moods, not pangs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Context specific. Achievements made at home - on a wall at home. Achievements at work - on a wall at work.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="what-if-there-is-no-wall"&gt;What if there is no wall?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;In a book or diary?&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Sept 2025</title><link>https://ibnishak.github.io/digital-garden/1a-0825/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/1a-0825/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/self-certify-your-achievements"&gt;Self certify your achievements&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/anova_assumptions"&gt;ANOVA Assumptions&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/notes-of-mental-anguish"&gt;Notes of Mental anguish&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/us-tariffs-on-india"&gt;US Tariffs on India&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Statistics</title><link>https://ibnishak.github.io/digital-garden/statistics/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/statistics/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/linear-model"&gt;Linear model&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ibnishak.github.io/digital-garden/anova_assumptions"&gt;ANOVA Assumptions&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Sunk Cost Fallacy</title><link>https://ibnishak.github.io/digital-garden/sunk_cost_fallacy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/sunk_cost_fallacy/</guid><description>&lt;p&gt;The Sunk Cost Fallacy describes our tendency to follow through on an endeavor if we have already invested time, effort, or money into it, whether or not the current costs outweigh the benefits.&lt;/p&gt;</description></item><item><title>Survivorship bias</title><link>https://ibnishak.github.io/digital-garden/survivorship_bias/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/survivorship_bias/</guid><description>&lt;ul&gt;
 &lt;li&gt;Social media and other information outlets only show individual successes. For every individual that succeeded, there might be 10 who failed. These 10 might have used the same technique, went to same coach and read the same self-help book.
 &lt;ol&gt;
 &lt;li&gt;Since we only see successes around us, we overestimate our chance of success.&lt;/li&gt;
-&lt;li&gt;A lot of success is pure chance. See 
-&lt;a href="https://ibnishak.github.io/digital-garden/meritocracy"&gt;Meritocracy&lt;/a&gt;
+&lt;li&gt;A lot of success is pure chance. See &lt;a href="https://ibnishak.github.io/digital-garden/meritocracy"&gt;Meritocracy&lt;/a&gt;
 . While we should strive to succeed with all our might, we should also remind ourselves of this. It will help us retain humility in our successes, remind what we owe to the society.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
@@ -757,14 +787,12 @@ This affords me the following conveniences:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Every time you hear a success story, remember those who used the same techniques and failed.&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>The Laundry Approach</title><link>https://ibnishak.github.io/digital-garden/the_laundry_approach/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/the_laundry_approach/</guid><description>&lt;p&gt;Do you wash every single piece of clothes separately? I’m sure not. You simply wait until the whole bag is full and then do the laundry. Thus, here you can follow the same approach. Don’t keep yourself busy with checking out your emails the whole day long. You can do that once a day or once in 2 days, depends on their importance”&lt;/p&gt;
-&lt;p&gt;Bilal El Mouden&lt;/p&gt;</description></item><item><title>Tiddlywiki - An exit interview</title><link>https://ibnishak.github.io/digital-garden/tiddlywiki_-_an_exit_interview/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/tiddlywiki_-_an_exit_interview/</guid><description>&lt;p&gt;Fair warning: This is not a takedown. I am just explaining why to &lt;em&gt;my particular use-case&lt;/em&gt;, Tiddlywiki is not a good fit anymore. In a way this is documentation of my 
-&lt;a href="https://ibnishak.github.io/digital-garden/circle_of_competence"&gt;Circle of Competence&lt;/a&gt;
+&lt;p&gt;Bilal El Mouden&lt;/p&gt;</description></item><item><title>Tiddlywiki - An exit interview</title><link>https://ibnishak.github.io/digital-garden/tiddlywiki_-_an_exit_interview/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/tiddlywiki_-_an_exit_interview/</guid><description>&lt;p&gt;Fair warning: This is not a takedown. I am just explaining why to &lt;em&gt;my particular use-case&lt;/em&gt;, Tiddlywiki is not a good fit anymore. In a way this is documentation of my &lt;a href="https://ibnishak.github.io/digital-garden/circle_of_competence"&gt;Circle of Competence&lt;/a&gt;
  rather than limitation of Tiddlywiki. As a tool Tiddlywiki has persisted for 15+ years and earned praise from industry giants. So before dismissing it based on anyone&amp;rsquo;s opinion, it would be only fair to give it a try.&lt;/p&gt;</description></item><item><title>Tiddlywiki - Conclusion</title><link>https://ibnishak.github.io/digital-garden/tiddlywiki_-_conclusion/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/tiddlywiki_-_conclusion/</guid><description>&lt;p&gt;Tiddlywiki is a unique tool. That is not always good. When your tool is unique, your problems are also unique and solutions might be rare. It is incredibly powerful to roll out your own solutions, but it is time-consuming. Ultimately the question is do you want to work on your notes, or do you want to work on your tool. Its unique selling proposition of powerful filters and transclusion is being implemented in apps like Logseq and Obsidian, which gives one fewer and fewer incentives to stay with Tiddlywiki.&lt;/p&gt;</description></item><item><title>Tiddlywiki - Extensibility issues</title><link>https://ibnishak.github.io/digital-garden/tiddlywiki_-_extensibility_issues/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/tiddlywiki_-_extensibility_issues/</guid><description>&lt;p&gt;Tiddlywiki has an expressive internal language in which most of plugins are written&lt;sup id="fnref:1"&gt;&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref"&gt;1&lt;/a&gt;&lt;/sup&gt;. This reminds me of Emacs/Vim attitude to extensibility. You have all the power, but only if you learn ELisp/Vim script/WikiText.&lt;/p&gt;
 &lt;p&gt;None of these languages has any application outside their restricted environments. The knowledge regarding these can be neither transferred in or transferred out. There is hardly any meta tools for this internal language - say syntax-highlighting or prettification tools. In addition, unlike Emacs/Vim, the community size of Tiddlywiki is rather small. The effect of such barriers easy to gauge when you compare the speed at which 
 &lt;a href="https://obsidian-plugin-stats.vercel.app/"rel="external" target="_blank" class="extLink"
 &gt;plugin ecosystem is expanding for apps like Obsidian&lt;/a&gt;
-, which has a well defined api in typescript, compared to that of Tiddlywiki.&lt;/p&gt;</description></item><item><title>Tiddlywiki - Inability to scale</title><link>https://ibnishak.github.io/digital-garden/tiddlywiki_-_inability_to_scale/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/tiddlywiki_-_inability_to_scale/</guid><description>&lt;p&gt;See 
-&lt;a href="https://ibnishak.github.io/digital-garden/scalability_limits_for_note_taking_applications"&gt;Scalability Limits for Note taking Applications&lt;/a&gt;
+, which has a well defined api in typescript, compared to that of Tiddlywiki.&lt;/p&gt;</description></item><item><title>Tiddlywiki - Inability to scale</title><link>https://ibnishak.github.io/digital-garden/tiddlywiki_-_inability_to_scale/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/tiddlywiki_-_inability_to_scale/</guid><description>&lt;p&gt;See &lt;a href="https://ibnishak.github.io/digital-garden/scalability_limits_for_note_taking_applications"&gt;Scalability Limits for Note taking Applications&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;There are 
 &lt;a href="https://tiddlywiki.com/#Scalability"rel="external" target="_blank" class="extLink"
@@ -792,7 +820,51 @@ This affords me the following conveniences:&lt;/p&gt;
 &lt;p&gt;There is no way to put this gently, Tiddlywiki UI is outdated. Yes, beauty is in the eyes of beholder, I am being superficial yada yada. Despite having immense potential and ease with which Tiddlywiki could modify its UI, it decided to stay with the 90s. Biggest visible changes to UI in the core has been introduction of menubar which is an eyesore. 
 &lt;a href="https://www.figma.com/proto/TCQj1L5v85AEB0RUqDMA8a/TiddliWiki-revamp?node-id=586%3A0&amp;amp;viewport=403%2C424%2C0.2502712905406952&amp;amp;scaling=min-zoom"rel="external" target="_blank" class="extLink"
 &gt;Well intentioned developers had offered to help out&lt;/a&gt;
- for free, only to be never heard from again, presumably due to lack of input or interest from the community.&lt;/p&gt;</description></item><item><title>Veil of ignorance</title><link>https://ibnishak.github.io/digital-garden/veil_of_ignorance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/veil_of_ignorance/</guid><description>&lt;p&gt;“Imagine you’ve been asked to create the principles and rules of a new society. Now imagine, when making the rules, that you don’t know your position, sex, intellectual capacity or disability in that society.”&lt;/p&gt;
+ for free, only to be never heard from again, presumably due to lack of input or interest from the community.&lt;/p&gt;</description></item><item><title>US Tariffs on India</title><link>https://ibnishak.github.io/digital-garden/us-tariffs-on-india/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/us-tariffs-on-india/</guid><description>&lt;ul&gt;
+&lt;li&gt;US imposed 25% tariffs on India for trade deficits and another 25% for buying oil from Russia.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="us-india-geopolitics"&gt;US-India geopolitics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;During India Pakistan wars, US has frequently sided with Pakistan - even sending them military aid during the 1971 war.
+&lt;a href="https://www.thehindu.com/news/national/kissinger-nixon-broke-us-rule-to-help-pakistan-sent-aircraft-from-third-countries-as-they-feared-india-was-about-to-attack-west-pakistan/article67591823.ece"rel="external" target="_blank" class="extLink"
+&gt;1&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;During Kargil war, US diplomatically supported India
+&lt;a href="https://www.brookings.edu/articles/how-the-1999-kargil-conflict-redefined-us-india-ties/"rel="external" target="_blank" class="extLink"
+&gt;2&lt;/a&gt;
+. Nevertheless, they denied use of GPS to India, prompting India to develop indigenous GPS system called NavIC
+&lt;a href="https://theprint.in/science/navigation-with-indian-constellation-navic-satellites-isro/2715129/"rel="external" target="_blank" class="extLink"
+&gt;3&lt;/a&gt;
+.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Trump family has crypto investments in Pakistan. Pakistan nominated Trump for Nobel peace prize.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="hypocrisy"&gt;Hypocrisy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;US is a major importer of refined oil from India, which India imports from Russia. Over 90% of the Indian oil products imported by the U.S. came from the Reliance refinery, who gets nearly half its crude oil from Russia. 
+&lt;a href="https://www.npr.org/2025/09/08/nx-s1-5522001/india-tariffs-russia-oil-imports"rel="external" target="_blank" class="extLink"
+&gt;5&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;US has not imposed tariffs on China, who imports more oil from Russia than India.
+&lt;a href="https://economictimes.indiatimes.com/industry/energy/oil-gas/china-refiners-grab-russian-oil-as-trump-menaces-flows-to-india/articleshow/123379379.cms?from=mdr"rel="external" target="_blank" class="extLink"
+&gt;6&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="self-reflection"&gt;Self reflection&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Is there a moral argument against buying Russian oil? Yes. But will moral arguments affect our survival where no one else follows such principles? Yes.
+&lt;ul&gt;
+&lt;li&gt;Again, during 71 war, US send Task Force 74 against India. It was USSR
+&lt;a href="https://en.wikipedia.org/wiki/Task_Force_74"rel="external" target="_blank" class="extLink"
+&gt;7&lt;/a&gt;
+ who sent military aid to defend against that incursion.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Survival is the ultimate moral argument&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>Veil of ignorance</title><link>https://ibnishak.github.io/digital-garden/veil_of_ignorance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/veil_of_ignorance/</guid><description>&lt;p&gt;“Imagine you’ve been asked to create the principles and rules of a new society. Now imagine, when making the rules, that you don’t know your position, sex, intellectual capacity or disability in that society.”&lt;/p&gt;
 &lt;p&gt;Our primary social tendency is to ensure our survival. Any tool or power we come to possess, we use for the same purpose. Law making is one of the highest powers available to anyone. Left alone, the law makers will naturally be biased towards oneself. Veil of ignorance uses the same bias to counter it.&lt;/p&gt;</description></item><item><title>Why learn Philosophy</title><link>https://ibnishak.github.io/digital-garden/why_learn_philosophy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ibnishak.github.io/digital-garden/why_learn_philosophy/</guid><description>&lt;p&gt;Everyone should &amp;ldquo;think&amp;rdquo;. However, one does not think in vacuum. Our thoughts are products of our exposure to other thoughts and experiences passed through the filter of our own deliberation. Philosophy is exposure to other thoughts - thoughts of people who had different experiences than us and deliberated upon them.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Employ your time in improving yourself by other men&amp;rsquo;s writings, so that you shall gain easily what others have labored hard for. - Socrates&lt;/p&gt;</description></item></channel></rss>
